@@ -1,17 +1,17 @@
 <!--Coming Soon Project -->
 
-Responsive designe Landing page with time countdown
-Backround covered with backroundimage
+Responsive designe Landing page with time countdown.
+Backround covered with backroundimage.
 In body section will be displayed:
 
 ![logo](img/logo.png)
 
-introductory paragraph
+introductory paragraph.
 
 # Coming Soon
 
-Time countown display with Javasript: days, hours, minuts, seconds
-Time decreases by every second
+Time countown display with Javasript: days, hours, minuts, seconds.
+Time decreases by every second.
 
 ```javascript
   countdown.innerHTML =`
